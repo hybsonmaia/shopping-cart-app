@@ -5,12 +5,16 @@
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
         "Weight": "25",
-        "WeightUnit": "KG",
-        "ShortDescription": "A Massa Corrida Branco 25kg - NIC-LABS preenche as imperfeições para que a superfície fique lisa e branca, pronta para receber a tinta. Ela também é fácil de aplicar e lixar, otimizando o seu tempo! Ela é indicada para nivelar e corrigir imperfeições rasas em pintura e repintura de superfícies não molháveis de reboco, gesso, fibrocimento, concreto aparente e paredes pintadas com PVA ou Acrílico ",
+        "WeightUnit": "Kg",
+        "ShortDescription": "A Massa Corrida Branco 25Kg - NIC-LABS preenche as imperfeições para que a superfície fique lisa e branca, pronta para receber a tinta. Ela também é fácil de aplicar e lixar, otimizando o seu tempo! Ela é indicada para nivelar e corrigir imperfeições rasas em pintura e repintura de superfícies não molháveis de reboco, gesso, fibrocimento, concreto aparente e paredes pintadas com PVA ou Acrílico ",
         "Name": "Massa Corrida",
         "PictureUrl": "sap/ui/demo/mock/images/massa_corrida.png",
         "Status": "A",
         "Price": "89.90",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
     },
 
@@ -20,12 +24,16 @@
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
         "Weight": "20",
-        "WeightUnit": "KG",
+        "WeightUnit": "Kg",
         "ShortDescription": "Areia média, especialmente selecionada garantindo uniformidade do agregado, ideal para o preparo de argamassa usada no assentamento de tijolos, blocos e chapisco e no reboco. qualidade e regularizações em sua reforma ou construção. ",
         "Name": "Areia Lavada",
         "PictureUrl": "sap/ui/demo/mock/images/areia.png",
         "Status": "A",
         "Price": "4.19",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -34,12 +42,16 @@
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
         "Weight": "50",
-        "WeightUnit": "KG",
+        "WeightUnit": "Kg",
         "ShortDescription": "Esse Cimento CP II F 32 da CSN é uma excelente opção se utilizar em todas as fazes da obra: desde a fundação e estruturas, até lajes e revestimentos. É um produto que conta com uma ótima textura, capaz de oferecer bastante rendimento, além de facilitar os serviços durante a aplicação.",
         "Name": "Cimento",
         "PictureUrl": "sap/ui/demo/mock/images/cimento.png",
         "Status": "O",
         "Price": "34.90",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -48,15 +60,15 @@
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
         "Weight": "4",
-        "WeightUnit": "KG",
+        "WeightUnit": "Kg",
         "ShortDescription": "Os blocos cerâmicos de vedação são geralmente utilizados na construção de paredes internas, sua principal função é fechar os vãos de construções residenciais ou comerciais. Além disso, suas ranhuras facilitam a aderência da argamassa.",
         "Name": "Tijolo",
         "PictureUrl": "sap/ui/demo/mock/images/tijolo.png",
         "Status": "D",
         "Price": "2.19",
-        "DimensionWidth": "Altura 19",
-        "DimensionDepth": "Profundidade 29",
-        "DimensionHeight": "Largura 14",
+        "DimensionWidth": "19",
+        "DimensionDepth": "29",
+        "DimensionHeight": "14",
         "Unit": "cm",
         "CurrencyCode": "BRL"
 },
@@ -71,7 +83,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/vergalhao1.png",
         "Status": "A",
         "Price": "23.90",
-        "DimensionWidth": "Comprimento 12 mts",
+        "DimensionWidth": "12",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "m",
         "CurrencyCode": "BRL"
 },
 {
@@ -85,6 +100,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/valvula_sorveteira.jpg",
         "Status": "A",
         "Price": "357.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -93,12 +112,16 @@
         "MainCategory": "Industria e Manufatura",
         "SupplierName": "NIC-LABS",
         "Weight": "1",
-        "WeightUnit": "KG",
+        "WeightUnit": "Kg",
         "ShortDescription": "",
         "Name": "Motor de Passo",
         "PictureUrl": "sap/ui/demo/mock/images/motor_de_passo.png",
         "Status": "A",
         "Price": "142.49",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -112,6 +135,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/engrenagem.jpg",
         "Status": "A",
         "Price": "25.30",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -125,6 +152,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/silenciador_charuto.jpg",
         "Status": "O",
         "Price": "173.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -138,6 +169,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/esmeril.jpg",
         "Status": "D",
         "Price": "321.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -151,6 +186,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/motor_cultivador.jpg",
         "Status": "A",
         "Price": "3498.48",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -164,6 +203,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/pulverizador.jpg",
         "Status": "A",
         "Price": "346.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -177,6 +220,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/fertilizante_liquido.jpg",
         "Status": "D",
         "Price": "176.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -190,6 +237,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/kit_aplicacao.png",
         "Status": "O",
         "Price": "123.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -203,6 +254,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/mascara_protecao.jpg",
         "Status": "O",
         "Price": "314.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -216,6 +271,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/educacao_financeira.jpg",
         "Status": "A",
         "Price": "275.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -229,6 +288,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/sap.jpg",
         "Status": "A",
         "Price": "189.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -242,6 +305,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/power_bi.jpg",
         "Status": "A",
         "Price": "229.90",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -255,6 +322,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/sql.jpg",
         "Status": "A",
         "Price": "209.90",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -268,6 +339,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/sap_mm.jpg",
         "Status": "A",
         "Price": "80.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -281,6 +356,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/maceio3.jpg",
         "Status": "A",
         "Price": "456.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -294,6 +373,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/brasilia3.jpg",
         "Status": "A",
         "Price": "362.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -307,6 +390,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/goiania3.jpg",
         "Status": "A",
         "Price": "150.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -320,6 +407,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/mato_grosso3.jpg",
         "Status": "A",
         "Price": "410.00",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 },
 {
@@ -333,6 +424,10 @@
         "PictureUrl": "sap/ui/demo/mock/images/florianopolis3.jpg",
         "Status": "A",
         "Price": "713.30",
+        "DimensionWidth": "",
+        "DimensionDepth": "",
+        "DimensionHeight": "",
+        "Unit": "",
         "CurrencyCode": "BRL"
 }
 ]
