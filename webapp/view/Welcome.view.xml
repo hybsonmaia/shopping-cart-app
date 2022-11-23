@@ -23,21 +23,21 @@
                     <l:BlockLayoutCell class="sapUiNoContentPadding">
                         <Carousel id="welcomeCarousel" showPageIndicator="false" loop="true" pageChanged=".onCarouselPageChanged" visible="{=!${device>/system/phone}}" tooltip="{i18n>welcomeDescription}">
                             <pages>
-                                <VBox renderType="Bare">
+                                <!-- <VBox renderType="Bare">
                                     <Image src="{
 											path: 'view>/welcomeCarouselShipping',
 											formatter : '.formatter.pictureUrl'
 											}" width="100%" height="100%" />
                                     <Text text="{i18n>welcomeCarouselShipping}" class="welcomeCarouselText" />
-                                </VBox>
+                                </VBox> -->
                                 <VBox renderType="Bare">
                                     <Image src="{
-											path: 'view>/welcomeCarouselInviteFriend',
+											path: 'view>/welcomeBannerNicLabs',
 											formatter : '.formatter.pictureUrl'
 										}" width="100%" height="100%" />
-                                    <Text text="{i18n>welcomeCarouselInviteFriend}" class="welcomeCarouselText" />
+                                    <Text text="{i18n>welcomeBannerNicLabs}" class="welcomeCarouselText" />
                                 </VBox>
-                                <VBox renderType="Bare">
+                                <!-- <VBox renderType="Bare">
                                     <Image src="{
 											path: 'view>/welcomeCarouselTablet',
 											formatter : '.formatter.pictureUrl'
@@ -50,7 +50,7 @@
 											formatter : '.formatter.pictureUrl'
 											}" width="100%" height="100%" />
                                     <Text text="{i18n>welcomeCarouselCreditCard}" class="welcomeCarouselText" />
-                                </VBox>
+                                </VBox> -->
                             </pages>
                         </Carousel>
                     </l:BlockLayoutCell>
