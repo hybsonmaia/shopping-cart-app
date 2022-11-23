@@ -1,0 +1,123 @@
+[
+    {
+        "ProductId": "MS-25",
+        "Category": "BM",
+        "MainCategory": "Materiais de contrução",
+        "SupplierName": "NIC-LABS",
+        "Weight": "25",
+        "WeightUnit": "KG",
+        "ShortDescription": "A Massa Corrida Branco 25kg - NIC-LABS preenche as imperfeições para que a superfície fique lisa e branca, pronta para receber a tinta. Ela também é fácil de aplicar e lixar, otimizando o seu tempo! Ela é indicada para nivelar e corrigir imperfeições rasas em pintura e repintura de superfícies não molháveis de reboco, gesso, fibrocimento, concreto aparente e paredes pintadas com PVA ou Acrílico ",
+        "Name": "Massa Corrida",
+        "PictureUrl": "sap/ui/demo/mock/images/massa_corrida.png",
+        "Status": "A",
+        "Price": "89.90",
+        "CurrencyCode": "BRL"
+    },
+
+{
+    "ProductId": "AL-20",
+        "Category": "BM",
+        "MainCategory": "Materiais de contrução",
+        "SupplierName": "NIC-LABS",
+        "Weight": "20",
+        "WeightUnit": "KG",
+        "ShortDescription": "Areia média, especialmente selecionada garantindo uniformidade do agregado, ideal para o preparo de argamassa usada no assentamento de tijolos, blocos e chapisco e no reboco. qualidade e regularizações em sua reforma ou construção. ",
+        "Name": "Areia Lavada",
+        "PictureUrl": "sap/ui/demo/mock/images/areia1.png",
+        "Status": "A",
+        "Price": "4.19",
+        "CurrencyCode": "BRL"
+},
+{
+    "ProductId": "CI-50",
+        "Category": "BM",
+        "MainCategory": "Materiais de contrução",
+        "SupplierName": "NIC-LABS",
+        "Weight": "50",
+        "WeightUnit": "KG",
+        "ShortDescription": "Esse Cimento CP II F 32 da CSN é uma excelente opção se utilizar em todas as fazes da obra: desde a fundação e estruturas, até lajes e revestimentos. É um produto que conta com uma ótima textura, capaz de oferecer bastante rendimento, além de facilitar os serviços durante a aplicação.",
+        "Name": "Cimento",
+        "PictureUrl": "sap/ui/demo/mock/images/cimento.png",
+        "Status": "O",
+        "Price": "34.90",
+        "CurrencyCode": "BRL"
+},
+{
+    "ProductId": "TJ",
+        "Category": "BM",
+        "MainCategory": "Materiais de contrução",
+        "SupplierName": "NIC-LABS",
+        "Weight": "4",
+        "WeightUnit": "KG",
+        "ShortDescription": "Os blocos cerâmicos de vedação são geralmente utilizados na construção de paredes internas, sua principal função é fechar os vãos de construções residenciais ou comerciais. Além disso, suas ranhuras facilitam a aderência da argamassa.",
+        "Name": "Tijolo",
+        "PictureUrl": "sap/ui/demo/mock/images/tijolo1.png",
+        "Status": "D",
+        "Price": "2.19",
+        "DimensionWidth": "Altura 19",
+        "DimensionDepth": "Profundidade 29",
+        "DimensionHeight": "Largura 14",
+        "Unit": "cm",
+        "CurrencyCode": "BRL"
+},
+{
+    "ProductId": "VER",
+        "Category": "BM",
+        "MainCategory": "Materiais de contrução",
+        "SupplierName": "NIC-LABS",
+        "Weight": "N/A",
+        "ShortDescription": "",
+        "Name": "Vergalhão",       
+        "PictureUrl": "sap/ui/demo/mock/images/vergalhao1.png",
+        "Status": "A",
+        "Price": "23.90",
+        "DimensionWidth": "Comprimento 12 mts",
+        "CurrencyCode": "BRL"
+},
+{
+    "ProductId": "VS",
+        "Category": "IND",
+        "MainCategory": "Industria e Manufatura",
+        "SupplierName": "NIC-LABS",
+        "Weight": "N/A",
+        "Name": "Válvula Sorveteira",
+        "ShortDescription": "As Válvulas Multidirecionais de Alta Vazão são aplicadas onde se necessitam de respostas rápidas com alto fluxo. Disponibilizadas nos modelos SP e SPN, com vazão de 9230 L/Min, nas bitolas de 1/2\" e 3/4\" BSP, tem o corpo em alumínio e vedações em buna-N, nas versões 2/2 e 3/2 vias e acionadas por piloto, solenoides 12 Vcc, 24 Vcc, 24 Vca, 127 Vca e 220 Vca e solenoide com suprimento externo de pressão, operam com pressões de 4 à 10 bar e temperatura de -10 ⁰C à +80 ⁰C. Desenvolvidas especialmente para maquinários do setor calçadista, atualmente são utilizadas nas mais diversas aplicações industriais. No mercado calçadista, curiosamente, é conhecida como válvula sorveteira.",
+        "PictureUrl": "sap/ui/demo/mock/images/Valvula_sorveteira_img2.png",
+        "Status": "A",
+        "Price": "357.00",
+        "CurrencyCode": "BRL"
+},
+{
+    "ProductId": "MOT",
+        "Category": "IND",
+        "MainCategory": "Industria e Manufatura",
+        "SupplierName": "NIC-LABS",
+        "Weight": "1",
+        "WeightUnit": "KG",
+        "ShortDescription": "",
+        "Name": "Motor de Passo",
+        "PictureUrl": "sap/ui/demo/mock/images/Motor_de_Passo_img1.png",
+        "Status": "A",
+        "Price": "142.49",
+        "CurrencyCode": "BRL"
+},
+{
+    "ProductId": "ENG",
+        "Category": "IND",
+        "MainCategory": "Industria e Manufatura",
+        "SupplierName": "NIC-LABS",
+        "Weight": "N/A",
+        "ShortDescription": "",
+        "Name": "Engrenagem Dente Reto Modulo 1 (20 dentes)",
+        "PictureUrl": "sap/ui/demo/mock/images/engrenagem.jpg",
+        "Status": "A",
+        "Price": "25.30",
+        "CurrencyCode": "BRL"
+}
+
+
+
+
+
+
+]
