@@ -21,7 +21,7 @@
 					MaxLength="255" sap:label="Name" sap:creatable="false"
 					sap:updatable="false"/>
 				<Property Name="ShortDescription" Type="Edm.String"
-					Nullable="false" MaxLength="255" sap:label="ShortDescription"
+					Nullable="false" MaxLength="50" sap:label="ShortDescription"
 					sap:creatable="false" sap:updatable="false" sap:sortable="false"/>
 				<Property Name="SupplierName" Type="Edm.String" Nullable="false"
 					MaxLength="80" sap:label="Company Name" sap:creatable="false"
