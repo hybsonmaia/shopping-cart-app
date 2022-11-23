@@ -1,82 +1,27 @@
 [
 	{
-		"CategoryName" : "Acessórios",
-		"Category" : "AC",
-		"NumberOfProducts" : 34
-	},
-	{
-		"CategoryName" : "Computadores desktops",
-		"Category" : "DC",
+		"CategoryName" : "Materiais de contrução",
+		"Category" : "BM",
 		"NumberOfProducts" : 5
 	},
 	{
-		"CategoryName" : "Telas planas",
-		"Category" : "FS",
-		"NumberOfProducts" : 3
+		"CategoryName" : "Viagens e transporte",
+		"Category" : "TVT",
+		"NumberOfProducts" : 5
 	},
 	{
-		"CategoryName" : "Teclados",
-		"Category" : "KB",
-		"NumberOfProducts" : 4
+		"CategoryName" : "Educacional",
+		"Category" : "ED",
+		"NumberOfProducts" : 5
 	},
 	{
-		"CategoryName" : "Notebooks",
-		"Category" : "LT",
-		"NumberOfProducts" : 11
+		"CategoryName" : "Indústria e manufatura",
+		"Category" : "IND",
+		"NumberOfProducts" : 5
 	},
 	{
-		"CategoryName" : "Impressoras",
-		"Category" : "PR",
-		"NumberOfProducts" : 9
-	},
-	{
-		"CategoryName" : "Smartphones and Tablets",
-		"Category" : "ST",
-		"NumberOfProducts" : 9
-	},
-	{
-		"CategoryName" : "Mouse",
-		"Category" : "MI",
-		"NumberOfProducts" : 7
-	},
-	{
-		"CategoryName" : "Acessórios do sistema de computador",
-		"Category" : "CSA",
-		"NumberOfProducts" : 7
-	},
-	{
-		"CategoryName" : "Placa de vídeo",
-		"Category" : "GC",
-		"NumberOfProducts" : 4
-	},
-	{
-		"CategoryName" : "Scanners",
-		"Category" : "SC",
-		"NumberOfProducts" : 4
-	},
-	{
-		"CategoryName" : "Caixa de som",
-		"Category" : "SP",
-		"NumberOfProducts" : 3
-	},
-	{
-		"CategoryName" : "Programas",
-		"Category" : "SW",
-		"NumberOfProducts" : 8
-	},
-	{
-		"CategoryName" : "Telecomunicação",
-		"Category" : "TC",
-		"NumberOfProducts" : 3
-	},
-	{
-		"CategoryName" : "Servidores",
-		"Category" : "SV",
-		"NumberOfProducts" : 3
-	},
-	{
-		"CategoryName" : "TVs de tela plana",
-		"Category" : "FST",
-		"NumberOfProducts" : 3
+		"CategoryName" : "Agricultura e meio ambiente",
+		"Category" : "ACE",
+		"NumberOfProducts" : 5
 	}
 ]
