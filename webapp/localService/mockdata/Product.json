@@ -241,7 +241,7 @@
         "Name": "Power BI Completo - Do Básico ao Avançado",
         "PictureUrl": "sap/ui/demo/mock/images/power_bi.jpg",
         "Status": "A",
-        "Price": "229,90",
+        "Price": "229.90",
         "CurrencyCode": "BRL"
 },
 {
@@ -254,7 +254,7 @@
         "Name": "O curso completo de Banco de Dados e SQL, sem mistérios!",
         "PictureUrl": "sap/ui/demo/mock/images/sql.jpg",
         "Status": "A",
-        "Price": "209,90",
+        "Price": "209.90",
         "CurrencyCode": "BRL"
 },
 {
@@ -267,7 +267,7 @@
         "Name": "SAP MM - Gerenciamento de Materiais",
         "PictureUrl": "sap/ui/demo/mock/images/sap_mm.jpg",
         "Status": "A",
-        "Price": "209,90",
+        "Price": "80.00",
         "CurrencyCode": "BRL"
 },
 {

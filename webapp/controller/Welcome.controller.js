@@ -29,7 +29,7 @@ sap.ui.define(
           Promoted: [],
           Viewed: [],
           Favorite: [],
-          Currency: 'EUR'
+          Currency: 'BRL'
         })
         this.getView().setModel(e, 'view')
         this.getRouter().attachRouteMatched(this._onRouteMatched, this)
