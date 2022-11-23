@@ -1,7 +1,7 @@
 [
 	{
 		"CategoryName" : "Materiais de contrução",
-		"Category" : "BM",
+		"Category" : "MTC",
 		"NumberOfProducts" : 5
 	},
 	{
@@ -11,7 +11,7 @@
 	},
 	{
 		"CategoryName" : "Educacional",
-		"Category" : "ED",
+		"Category" : "EDC",
 		"NumberOfProducts" : 5
 	},
 	{
