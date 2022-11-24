@@ -23,8 +23,7 @@ sap.ui.define(
           welcomeCarouselShipping: 'sap/ui/demo/cart/img/Shipping_273087.jpg',
           welcomeBannerNicLabs: 'sap/ui/demo/cart/img/banner-niclabs.png',
           welcomeCarouselTablet: 'sap/ui/demo/cart/img/Tablet_275777.png',
-          welcomeCarouselCreditCard:
-            'sap/ui/demo/cart/img/CreditCard_277268.jpg',
+          welcomeCarouselCreditCard: 'sap/ui/demo/cart/img/InviteFriend_276352.jpg',
           Promoted: [],
           Viewed: [],
           Favorite: [],
