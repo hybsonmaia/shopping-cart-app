@@ -1,10 +1,22 @@
 [
   {
+    "ProductId": "MTC-001",
+    "Type": "Promoted"
+  },
+  {
+    "ProductId": "IND-001",
+    "Type": "Promoted"
+  },
+  {
+    "ProductId": "TVT-001",
+    "Type": "Promoted"
+  },
+  {
     "ProductId": "EDC-001",
     "Type": "Promoted"
   },
   {
-    "ProductId": "EDC-002",
+    "ProductId": "ACE-001",
     "Type": "Promoted"
   },
   {
