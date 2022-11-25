@@ -78,21 +78,22 @@
 													formatter : '.formatter.statusState'}" />
                                         </l:VerticalLayout>
                                     </FlexBox>
-                                    <FlexBox renderType="Bare" justifyContent="Center">
+                                    <FlexBox class="boxPromoted" renderType="Bare">
                                         <Image
+                                            class="imagePromoted"
                                             src="{
 												path: 'view>Product/PictureUrl',
 												formatter : '.formatter.pictureUrl'
 											}"
                                             densityAware="false"
-                                            width="40%"
-                                            height="40%"
+                                            width="50%"
+                                            height="50%"
                                             press=".onSelectProduct"
                                             tooltip="{i18n>openProductDetails} {view>Product/Name}"
                                             alt="{i18n>alternativeImageText} {view>Product/Name}"
                                         />
                                     </FlexBox>
-                                    <Button tooltip="{i18n>addToCart}" type="Emphasized" press=".onAddToCart" icon="sap-icon://cart-3">
+                                    <Button tooltip="{i18n>addToCart}" press=".onAddToCart" type="Emphasized" icon="sap-icon://cart-3">
                                         <layoutData>
                                             <l:GridData span="XL4 L4 M4 S4" />
                                         </layoutData>
