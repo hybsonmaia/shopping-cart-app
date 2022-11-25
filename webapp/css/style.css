@@ -46,3 +46,18 @@
 	padding: 15px 0 15px 0;
   object-fit: cover;
 }
+
+.grid {
+position: relative;
+}
+
+.grid2 {
+	position: absolute;
+	display: flex;
+	gap: 300px;
+	top: 280px;
+}
+
+.imagePromoted {
+	margin-bottom: 30px;
+}
