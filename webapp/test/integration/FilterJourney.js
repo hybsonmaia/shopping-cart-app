@@ -8,7 +8,7 @@ sap.ui.define(
   function (e, o) {
     'use strict'
     var t = e.getLanguage()
-    QUnit.module('Filter Journey', {
+    QUnit.module('Filtr Journey', {
       before: function () {
         e.setLanguage('en-US')
       },
