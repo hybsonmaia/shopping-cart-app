@@ -1,5 +1,5 @@
 <core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout">
-    <ViewSettingsDialog text="{i18n>availabilityFilterTitle}" id="categoryFilterDialog" confirm=".handleConfirm" cancel=".handleCancel" resetFilters=".handleResetFilters">
+    <ViewSettingsDialog id="categoryFilterDialog" confirm=".handleConfirm" cancel=".handleCancel" resetFilters=".handleResetFilters">
         <filterItems>
             <ViewSettingsFilterItem text="{i18n>availabilityFilterTitle}" key="availabilityKey">
                 <items>

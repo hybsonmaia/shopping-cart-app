@@ -47,6 +47,11 @@
   object-fit: cover;
 }
 
+
+.text {
+	padding: 30px 0 ;
+}
+
 /* 
 .grid {
 position: relative;

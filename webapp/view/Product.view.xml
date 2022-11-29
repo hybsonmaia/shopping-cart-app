@@ -30,7 +30,7 @@
 				}" numberUnit="BRL">
                 <attributes>
                     <ObjectAttribute title="{i18n>productSupplierAttributeText}" text="{SupplierName}" />
-                    <ObjectAttribute title="{i18n>productDescriptionAttributeText}" text="{ShortDescription}" />
+                    <ObjectAttribute class="text" title="{i18n>productDescriptionAttributeText}" text="{ShortDescription}" />
                     <ObjectAttribute title="{i18n>productWeightAttributeText}" text="{Weight} {WeightUnit}" />
                     <ObjectAttribute title="{i18n>productMeasuresAttributeText}" text="{DimensionWidth} {Unit} x {DimensionDepth} {Unit} x
 						{DimensionHeight} {Unit}" />

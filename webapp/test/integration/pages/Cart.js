@@ -25,16 +25,16 @@ sap.ui.define(
               errorMessage: 'The edit button could not be pressed'
             })
           },
-          iPressOnTheDeleteButton: function () {
-            return this.waitFor({
-              id: 'entryList',
-              matchers: new n({ mode: 'Delete' }),
-              actions: function (e) {
-                e.fireDelete({ listItem: e.getItems()[0] })
-              },
-              errorMessage: 'The delete button could not be pressed'
-            })
-          },
+          // iPressOnTheDeleteButton: function () {
+          //   return this.waitFor({
+          //     id: 'entryList',
+          //     matchers: new n({ mode: 'Delete' }),
+          //     actions: function (e) {
+          //       e.fireDelete({ listItem: e.getItems()[0] })
+          //     },
+          //     errorMessage: 'The delete button could not be pressed'
+          //   })
+          // },
           iPressOnTheSaveChangesButton: function () {
             return this.waitFor({
               controlType: 'sap.m.Button',
