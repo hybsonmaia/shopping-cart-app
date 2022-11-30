@@ -14,6 +14,7 @@ sap.ui.define(['./BaseController', '../model/formatter'], function (t, e) {
     },
     _routePatternMatched: function (t) {
       var e = t.getParameter('arguments').productId,
+        that = this,
         a = this.getView(),
         r = a.getModel()
       r.metadataLoaded().then(
@@ -26,6 +27,8 @@ sap.ui.define(['./BaseController', '../model/formatter'], function (t, e) {
                 a.setBusy(true)
               },
               dataReceived: function () {
+                that._controlFieldsVisibility(r, t)
+                that._mountTechnicalSpecsList(r, t)
                 a.setBusy(false)
               }
             }
@@ -56,6 +59,62 @@ sap.ui.define(['./BaseController', '../model/formatter'], function (t, e) {
       var a = e.getData(t)
       if (!a) {
         this._router.getTargets().display('notFound')
+      }
+    },
+    _controlFieldsVisibility: function (r, t) {
+      var productData = r.getObject(t)
+      if (
+        productData.ShortDescription == undefined ||
+        productData.ShortDescription == ''
+      ) {
+        this.getView().byId('oaDescription').setVisible(false)
+      } else {
+        this.getView().byId('oaDescription').setVisible(true)
+      }
+      if (
+        productData.Weight == undefined ||
+        productData.WeightUnit == undefined ||
+        productData.Weight == '' ||
+        productData.WeightUnit == ''
+      ) {
+        this.getView().byId('oaWeight').setVisible(false)
+      } else {
+        this.getView().byId('oaWeight').setVisible(true)
+      }
+      if (
+        productData.DimensionWidth == undefined ||
+        productData.DimensionDepth == undefined ||
+        productData.DimensionHeight == undefined ||
+        productData.Unit == undefined ||
+        productData.DimensionWidth == '' ||
+        productData.DimensionDepth == '' ||
+        productData.DimensionHeight == '' ||
+        productData.Unit == ''
+      ) {
+        this.getView().byId('aoDimension').setVisible(false)
+      } else {
+        this.getView().byId('aoDimension').setVisible(true)
+      }
+      if (productData.TechnicalSpecs == undefined) {
+        this.getView().byId('listTechnicalSpecs').setVisible(false)
+      } else {
+        this.getView().byId('listTechnicalSpecs').setVisible(true)
+      }
+    },
+    _mountTechnicalSpecsList: function (r, t) {
+      var productData = r.getObject(t)
+      var oListModel = new sap.ui.model.json.JSONModel()
+      var keyValues = []
+      this.setModel(oListModel, 'listModel')
+      if (productData.TechnicalSpecs != undefined) {
+        for (const [key, value] of Object.entries(productData.TechnicalSpecs)) {
+          var element = {}
+          element.key = key
+          element.value = value
+          keyValues.push(element)
+        }
+        oListModel.setData(keyValues)
+        this.getView().byId('listTechnicalSpecs').setModel(oListModel)
       }
     },
     onToggleCart: function (t) {

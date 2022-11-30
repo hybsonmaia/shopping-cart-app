@@ -24,15 +24,15 @@
             </Toolbar>
         </footer>
         <content>
-            <ObjectHeader title="{Name}" titleLevel="H3" number="{
+            <ObjectHeader class="titleSupplier" title="{Name}" titleLevel="H3" number="{
 					path : 'Price',
 					formatter : '.formatter.price'
 				}" numberUnit="BRL">
                 <attributes>
-                    <ObjectAttribute title="{i18n>productSupplierAttributeText}" text="{SupplierName}" />
-                    <ObjectAttribute class="text" title="{i18n>productDescriptionAttributeText}" text="{ShortDescription}" />
-                    <ObjectAttribute title="{i18n>productWeightAttributeText}" text="{Weight} {WeightUnit}" />
-                    <ObjectAttribute title="{i18n>productMeasuresAttributeText}" text="{DimensionWidth} {Unit} x {DimensionDepth} {Unit} x
+                    <ObjectAttribute  title="{i18n>productSupplierAttributeText}" text="{SupplierName}" />
+                    <ObjectAttribute id="oaDescription" class="text" title="{i18n>productDescriptionAttributeText}" text="{ShortDescription}" />
+                    <ObjectAttribute id="oaWeight" title="{i18n>productWeightAttributeText}" text="{Weight} {WeightUnit}" />
+                    <ObjectAttribute id="aoDimension" title="{i18n>productMeasuresAttributeText}" text="{DimensionWidth} {Unit} x {DimensionDepth} {Unit} x
 						{DimensionHeight} {Unit}" />
                 </attributes>
                 <statuses>
@@ -45,8 +45,8 @@
 						}" />
                 </statuses>
             </ObjectHeader>
-            <VBox alignItems="Center" renderType="Div">
-                <Image id="productImage" src="{path : 'PictureUrl', formatter : '.formatter.pictureUrl'}" decorative="true" densityAware="false" class="sapUiSmallMargin" width="100%" height="100%">
+            <VBox  alignItems="Center" renderType="Div">
+                <Image  id="productImage" src="{path : 'PictureUrl', formatter : '.formatter.pictureUrl'}" decorative="true" densityAware="false" class="sapUiSmallMargin productImage" width="60%" height="60%">
                     <detailBox>
                         <LightBox id="lightBox">
                             <imageContent>
@@ -56,6 +56,31 @@
                     </detailBox>
                 </Image>
             </VBox>
+            <Table id="listTechnicalSpecs" inset="false" items="{ path: '/'}">
+                <headerToolbar>
+                    <OverflowToolbar>
+                        <content>
+                            <Title text="Especificações técnicas"/>
+                        </content>
+                    </OverflowToolbar>
+                </headerToolbar>
+                <columns>
+                    <Column width="30em">
+                    </Column>
+                    <Column
+                        minScreenWidth="Tablet"
+                        demandPopin="true">
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem vAlign="Middle">
+                        <cells>
+                            <ObjectIdentifier title="{key}" />
+                            <Text text="{value}" />
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
         </content>
     </Page>
 </mvc:View>

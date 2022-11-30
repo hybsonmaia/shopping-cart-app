@@ -23,8 +23,8 @@
         "Category": "MTC",
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
-        "Weight": "20",
-        "WeightUnit": "Kg",
+        "Weight": "",
+        "WeightUnit": "",
         "ShortDescription": "Areia média, especialmente selecionada garantindo uniformidade do agregado, ideal para o preparo de argamassa usada no assentamento de tijolos, blocos e chapisco e no reboco. qualidade e regularizações em sua reforma ou construção. ",
         "Name": "Areia Lavada",
         "PictureUrl": "sap/ui/demo/mock/images/areia.png",
@@ -34,15 +34,26 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Uso Indicado": "Preparo De Argamassa Usada No Assentamento De Tijolos, Blocos, Chapisco e Reboco",
+            "Material": "Mineral",
+            "Tipo de Material": "Areia",
+            "Tipo de Embalagem": "Tipo de Embalagem",
+            "Peso do Produto na Embalagem": "20Kg",
+            "Marca": "NIC LABS",
+            "E-mail Assistência do Fabricante": "grupotomino@uol.com.br",
+            "Telefone da Assistência do Fabricante": "(11)4192-1220",
+            "Horário de Funcionamento da Assistência do Fabricante": "De segunda à sexta-feira das 08:00 às 12:00."
+        }
 },
 {
     "ProductId": "MTC-003",
         "Category": "MTC",
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
-        "Weight": "50",
-        "WeightUnit": "Kg",
+        "Weight": "",
+        "WeightUnit": "",
         "ShortDescription": "Esse Cimento CP II F 32 da CSN é uma excelente opção se utilizar em todas as fazes da obra: desde a fundação e estruturas, até lajes e revestimentos. É um produto que conta com uma ótima textura, capaz de oferecer bastante rendimento, além de facilitar os serviços durante a aplicação.",
         "Name": "Cimento",
         "PictureUrl": "sap/ui/demo/mock/images/cimento.png",
@@ -52,7 +63,19 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Produto": "Cimento",
+            "Cor": "Cinza",
+            "Peso do Produto": "50Kg",
+            "Cuidados de Uso": "Armazenar em local seco",
+            "Marca": "NIC LABS",
+            "Garantia do Fabricante": "3 meses",
+            "Observações sobre a Garantia do Fabricante": "Consulte condições de garantia, manutenção e utilização do produto no manual do fabricante.",
+            "Telefone da Assistência do Fabricante": "(XX)XXXX-XXXX",
+            "Horário de Funcionamento da Assistência do Fabricante": "9h às 18h",
+            "Site do Fabricante": "www.nic-labs.com"
+        }
 },
 {
     "ProductId": "MTC-004",
@@ -70,31 +93,58 @@
         "DimensionDepth": "29",
         "DimensionHeight": "14",
         "Unit": "cm",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Produto": "Bloco Cerâmico",
+            "Tipo de bloco": "Vedação",
+            "Material": "Mineral",
+            "Tipo de material": "Argila",
+            "Quantidade de furos ": "9 furo(s)",
+            "Altura": "19 cm",
+            "Largura": "14 cm",
+            "Comprimento": "29 cm",
+            "Peso do produto": "4 Kg",
+            "Quantidade de blocos por m²": "16.7 bloco(s)",
+            "Quantidade Blocos por Pallet": "168",
+            "Marca": "NIC_LABS"
+        }
 },
 {
     "ProductId": "MTC-005",
         "Category": "MTC",
         "MainCategory": "Materiais de contrução",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "",
         "Name": "Vergalhão",       
         "PictureUrl": "sap/ui/demo/mock/images/vergalhao1.png",
         "Status": "A",
         "Price": "23.90",
-        "DimensionWidth": "12",
+        "DimensionWidth": "",
         "DimensionDepth": "",
         "DimensionHeight": "",
-        "Unit": "m",
-        "CurrencyCode": "BRL"
+        "Unit": "",
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Uso indicado": "Para montagem de armadura de aço",
+            "Produto": "Vergalhão",
+            "Material": "Metal",
+            "Tipo de material": "Aço CA-60",
+            "Acabamento": "Nervurado",
+            "Comprimento": "12 cm",
+            "Bitola do ferro": "5 mm",
+            "Peso do produto": "4 Kg",
+            "Norma técnica": "ABNT NBR 7480",
+            "Marca": "NIC LABS",
+            "Site do Fabricante": "www.nic-labs.com.br"
+        }
 },
 {
     "ProductId": "IND-001",
         "Category": "IND",
         "MainCategory": "Industria e Manufatura",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "Name": "Válvula Sorveteira",
         "ShortDescription": "As Válvulas Multidirecionais de Alta Vazão são aplicadas onde se necessitam de respostas rápidas com alto fluxo. Disponibilizadas nos modelos SP e SPN, com vazão de 9230 L/Min, nas bitolas de 1/2\" e 3/4\" BSP, tem o corpo em alumínio e vedações em buna-N, nas versões 2/2 e 3/2 vias e acionadas por piloto, solenoides 12 Vcc, 24 Vcc, 24 Vca, 127 Vca e 220 Vca e solenoide com suprimento externo de pressão, operam com pressões de 4 à 10 bar e temperatura de -10 ⁰C à +80 ⁰C. Desenvolvidas especialmente para maquinários do setor calçadista, atualmente são utilizadas nas mais diversas aplicações industriais. No mercado calçadista, curiosamente, é conhecida como válvula sorveteira.",
         "PictureUrl": "sap/ui/demo/mock/images/valvula_sorveteira.jpg",
@@ -111,8 +161,8 @@
         "Category": "IND",
         "MainCategory": "Industria e Manufatura",
         "SupplierName": "NIC-LABS",
-        "Weight": "1",
-        "WeightUnit": "Kg",
+        "Weight": "",
+        "WeightUnit": "",
         "ShortDescription": "",
         "Name": "Motor de Passo",
         "PictureUrl": "sap/ui/demo/mock/images/motor_de_passo.png",
@@ -122,14 +172,28 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Torque": "20kgf.cm",
+            "Tensão": "2,7 Vdc",
+            "Corrente": "3 A",
+            "Peso": "1 kg",
+            "Driver indicado": "DM542",
+            "Precisão do ângulo do passo": "± 5%",
+            "Precisão de resistência": "± 10%",
+            "Precisão de indutância": "± 20%",
+            "Temperatura máxima de trabalho": "80 ℃",
+            "Temperatura ambiente": "-20 ℃ ~ + 50 ℃",
+            "Resistência de isolamento": "100MΩMin.500VDC",
+            "Força Dielétrica ": "500VAC por um minuto"
+        }
 },
 {
     "ProductId": "IND-003",
         "Category": "IND",
         "MainCategory": "Industria e Manufatura",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "",
         "Name": "Engrenagem Dente Reto Modulo 1 (20 dentes)",
         "PictureUrl": "sap/ui/demo/mock/images/engrenagem.jpg",
@@ -139,14 +203,19 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Furo Diâmetro": "8 MM",
+            "Diâmetro Extremo": "22 MM",
+            "Comprimento": "25 MM"
+        }
 },
 {
     "ProductId": "IND-004",
         "Category": "IND",
         "MainCategory": "Industria e Manufatura",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "",
         "Name": "Silenciador Charuto ¾",
         "PictureUrl": "sap/ui/demo/mock/images/silenciador_charuto.jpg",
@@ -156,15 +225,23 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Fluídos": "Ar Comprimido",
+            "Material": "Alumínio e Tecido de Nylon.",
+            "Montagem": "Em linha em qualquer posição",
+            "Pressão de Trabalho": "10,5 kgf/cm² (150 psi)",
+            "Rosca": "3/8 BSP",
+            "Temperatura": "-10ºC a +80ºC"
+        }
 },
 {
     "ProductId": "IND-005",
         "Category": "IND",
         "MainCategory": "Industria e Manufatura",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
-        "ShortDescription": "",
+        "Weight": "",
+        "ShortDescription": "Esmeril para afiar navalhas das máquinas de refilar solados.",
         "Name": "Esmeril",
         "PictureUrl": "sap/ui/demo/mock/images/esmeril.jpg",
         "Status": "A",
@@ -180,8 +257,8 @@
         "Category": "ACE",
         "MainCategory": "Agricultura e meio ambiente",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
-        "ShortDescription": "TRATORITO MOTOCULTIVADOR DE SOLO A GASOLINA",
+        "Weight": "",
+        "ShortDescription": "Tratorito Motocultivador de solo a gasolina",
         "Name": "Motor cultivador a gasolina.",
         "PictureUrl": "sap/ui/demo/mock/images/motor_cultivador.jpg",
         "Status": "A",
@@ -190,14 +267,23 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Rodas": "4.0-8\"",
+            "Lâminas": "4 (3+1)",
+            "Tamanho das Lâminas": "212cc",
+            "Cilindrada": "Gasolina",
+            "Combustível": "7hp",
+            "Potência Máxima": "3600 rpm",
+            "Rotação Máxima": "3,6 litros"
+        }
 },
 {
     "ProductId": "ACE-002",
         "Category": "ACE",
         "MainCategory": "Agricultura e meio ambiente",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "",
         "Name": "Pulverizador Manual",
         "PictureUrl": "sap/ui/demo/mock/images/pulverizador.jpg",
@@ -207,14 +293,20 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Capacidade ": "5lts",
+            "Válvula de segurança": "Não",
+            "Material do bico": "Plástico",
+            "Peso (vazio)": "1,25 kg"
+        }
 },
 {
     "ProductId": "ACE-003",
         "Category": "ACE",
         "MainCategory": "Agricultura e meio ambiente",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "",
         "Name": "Fertilizante liquido",
         "PictureUrl": "sap/ui/demo/mock/images/fertilizante_liquido.jpg",
@@ -224,14 +316,22 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Utilizações seguras": "Pulverização, todo tipo de cultivo, via folha, via solo.",
+            "Componentes": "Boro, nitrogênio 30%",
+            "Produto orgânico?": "Sim",
+            "Com nitrato de amónio?": "Não",
+            "Inflamável": "Não",
+            "Quantidade por embalagem": "2 lts"
+        }
 },
 {
     "ProductId": "ACE-004",
         "Category": "ACE",
         "MainCategory": "Agricultura e meio ambiente",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Vestimenta de segurança de corpo inteiro composta de blusão, calça e capuz, todos confeccionados em tecido 58% algodão e 42% poliéster, com tratamento hidro-repelente. O Blusão de mangas longas possui mínima abertura na altura do peito e fechamento frontal por velcro. Capuz tipo árabe ajustado por cordão interno na barra do blusão. Calça comprida com cordão para ajustes na cintura e proteção de tecido impermeável nas pernas",
         "Name": "Kit Aplicação Agrotóxicos pulverização de veneno",
         "PictureUrl": "sap/ui/demo/mock/images/kit_aplicacao.png",
@@ -241,14 +341,20 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Item 1":"Boné árabe",
+            "Item 2":"Blusa",
+            "Item 3":"Calça com proteção Impermeábel",
+            "Item 4":"Avental"
+        }
 },
 {
     "ProductId": "ACE-005",
         "Category": "ACE",
         "MainCategory": "Agricultura e meio ambiente",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "A combinação do conforto e da conveniência. O Respirador Reutilizável oferece a você ótima relação custo/benefício. É uma peça semifacial fabricada em elastômero de borracha de alta qualidade. Isso significa conforto e segurança ao usuário. Indicado para utilização de solventes e manipulação de produtos químicos que liberam vapores orgânicos e gases ácidos.",
         "Name": "Máscara de proteção com 2 Filtros",
         "PictureUrl": "sap/ui/demo/mock/images/mascara_protecao.jpg",
@@ -258,14 +364,22 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "1 Respirador semifacial tamanho médio.": "",
+            "1 Par de cartuchos químicos para vapores orgânicos e gases ácidos.": "",
+            "1 Par de filtros para partículas.": "",
+            "1 Par de retentores.": "",
+            "Avental.": "",
+            "Viseira": ""
+        }
 },
 {
     "ProductId": "EDC-001",
         "Category": "EDC",
         "MainCategory": "Educacional",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Aprenda Finanças Pessoais, Gestão e Investimentos e Domine o Equilíbrio Financeiro!",
         "Name": "Educação Financeira",
         "PictureUrl": "sap/ui/demo/mock/images/educacao_financeira.jpg",
@@ -275,14 +389,22 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "• Conhecimentos iniciais e essenciais de finanças pessoais.": "",
+            "• Como fazer um orçamento completo de controle financeiro para gerenciar entrada, saída e investimentos": "",
+            "• Como fazer um planejamento e aprender todas as possibilidades para evitar e quitar dívidas.": "",
+            "• Tudo sobre a formação de reserva de emergência.": "",
+            "• Começando no mundo dos investimentos: Renda fixa.": "",
+            "• Principais ativos da renda fixa para curto, médio e longo prazo.": ""
+        }        
 },
 {
     "ProductId": "EDC-002",
         "Category": "EDC",
         "MainCategory": "Educacional",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Treinamento SAP ABAP",
         "Name": "SAP do Zero ao Profissional",
         "PictureUrl": "sap/ui/demo/mock/images/sap.jpg",
@@ -292,14 +414,26 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+       "TechnicalSpecs": {
+            "• Instalação/administração do seu próprio servidor de treinamento.": "",
+            "• Dicionário de dados (domínio, elemento de dados, tabela, índice, visão, ajuda de pesquisa etc.).": "",
+            "• DEBUG.": "",
+            "• Batch Input.": "",
+            "• BAPI.": "",
+            "• Relatórios ALV.": "",
+            "• Programação básica (variáveis, constantes, parâmetros de entrada, instruções comparativas, operadores aritméticos etc.).": "",
+            "• Programação avançada (diversos comandos, SQL, modularização, eventos etc.)": "",
+            "• Call Transaction": "",
+            "• Module pool (PBO, PAI, Table control, Chain, Tabstrip,etc)": ""
+        }
 },
 {
     "ProductId": "EDC-003",
         "Category": "EDC",
         "MainCategory": "Educacional",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Aprenda o passo a passo exato para criar dashboards e relatórios dinâmicos usando Business Intelligence.",
         "Name": "Power BI Completo",
         "PictureUrl": "sap/ui/demo/mock/images/power_bi.jpg",
@@ -309,14 +443,22 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "• Aprenda do básico ao avançado, tudo o que você precisa saber de Power BI.": "",
+            "• Crie dashboards e relatórios dinâmicos.": "",
+            "• Aprenda gráficos, indicadores, mapas e tudo o que precisa saber de Power BI.": "",
+            "• Destaque-se por causa dos seus conhecimentos de Power BI.": "",
+            "• Construa seus próprios relatórios intuitivos e com visual incrível.": "",
+            "• Aprenda Power BI para usar no que quiser, em seus desafios e ganhe um enorme diferencial.": ""
+        }
 },
 {
     "ProductId": "EDC-004",
         "Category": "EDC",
         "MainCategory": "Educacional",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL, veja tudo aqui no curso de bancos de dados relacionais!",
         "Name": "Banco de Dados - SQL",
         "PictureUrl": "sap/ui/demo/mock/images/sql.jpg",
@@ -326,14 +468,24 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "• Entender a diferença entre um Administrador de Dados e um DBA.": "",
+            "• Instalar o Banco de Dados MySql.": "",
+            "• Entender todo o ambiente transacional e optar por continuar seus estudos em ambientes analíticos de Business Intelligence.": "",
+            "• Criar bancos de dados consistentes do ponto de infraestrutura e modelagem.": "",
+            "• Executar a linguagem SQL - Structured Query Language, ou Linguagem de Consulta Estruturada em QUALQUER banco de dados.": "",
+            "• Utilizar o Dicionário de Dados.": "",
+            "• Escolher as funções nativas de qualquer banco de dados, de acordo com a sua necessidade.": "",
+            "• Realizar downloads de softwares relacionados a banco de dados.": ""
+        }
 },
 {
     "ProductId": "EDC-005",
         "Category": "EDC",
         "MainCategory": "Educacional",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Processo de suprimentos em uma organização",
         "Name": "SAP MM - Gerenciamento de Materiais",
         "PictureUrl": "sap/ui/demo/mock/images/sap_mm.jpg",
@@ -343,14 +495,24 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "• Conhecer os processos de Gestão de Materiais SAP.": "",
+            "• Funções dos principais Dados Mestre de Materiais.": "",
+            "• Para que serve a RegInfo.": "",
+            "• Criar Pedido de Compras.": "",
+            "• Entrada de Mercadoria.": "",
+            "• Análises nos relatórios de Materiais.": "",
+            "• Criação de Requisição de Compras.": "",
+            "• Processo de Cotação de Compras.": ""
+        }
 },
 {
     "ProductId": "TVT-001",
         "Category": "TVT",
         "MainCategory": "Viagens e transporte",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Saindo de: São Paulo - Tietê / Indo para: Maceió - Terminal João Paulo II",
         "Name": "Passagens de ônibus para Maceió - Terminal João Paulo II",
         "PictureUrl": "sap/ui/demo/mock/images/maceio2.jpg",
@@ -360,14 +522,21 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Origem": "São Paulo - Tietê",
+            "Destino": "Maceió - Terminal João Paulo II",
+            "Horário de saída": "09:00",
+            "Horário de chegada": "12:30",
+            "Tipo de assento": "Leito"
+        }
 },
 {
     "ProductId": "TVT-002",
         "Category": "TVT",
         "MainCategory": "Viagens e transporte",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Saindo de: : RJ - Novo Rio / Indo para: Brasília, DF - Terminal Interestadual",
         "Name": "Passagens de ônibus de Rio de Janeiro, RJ - Novo Rio para Brasília, DF - Terminal Interestadual",
         "PictureUrl": "sap/ui/demo/mock/images/brasilia3.jpg",
@@ -377,14 +546,21 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Origem": "RJ - Novo Rio",
+            "Destino": "Brasília, DF - Terminal Interestadual",
+            "Horário de saída": "12:30",
+            "Horário de chegada": "07:40",
+            "Tipo de assento": "Semileito"
+        }
 },
 {
     "ProductId": "TVT-003",
         "Category": "TVT",
         "MainCategory": "Viagens e transporte",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Saindo de: : Palmas, TO / Indo para: Goiânia, GO – Rodoviária",
         "Name": "Passagens de ônibus de Palmas, TO para Goiânia, GO – Rodoviária",
         "PictureUrl": "sap/ui/demo/mock/images/goiania3.jpg",
@@ -394,14 +570,21 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Origem": "Palmas, TO",
+            "Destino": "Goiânia, GO – Rodoviária",
+            "Horário de saída": "05:30",
+            "Horário de chegada": "20:30",
+            "Tipo de assento": "Semileito"
+        }
 },
 {
     "ProductId": "TVT-004",
         "Category": "TVT",
         "MainCategory": "Viagens e transporte",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Saindo de: : Campinas, SP - Terminal Ramos de Azevedo / Indo para: Rio Verde de Mato Grosso, MS",
         "Name": "Passagens de ônibus de Campinas, SP - Terminal Ramos de Azevedo para Rio Verde de Mato Grosso, MS",
         "PictureUrl": "sap/ui/demo/mock/images/mato_grosso3.jpg",
@@ -411,14 +594,21 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Origem": "Campinas, SP - Terminal Ramos de Azevedo",
+            "Destino": "Rio Verde de Mato Grosso, MS",
+            "Horário de saída": "09:10",
+            "Horário de chegada": "05:10",
+            "Tipo de assento": "Executivo"
+        }
 },
 {
     "ProductId": "TVT-005",
         "Category": "TVT",
         "MainCategory": "Viagens e transporte",
         "SupplierName": "NIC-LABS",
-        "Weight": "N/A",
+        "Weight": "",
         "ShortDescription": "Saindo de: : Rio de Janeiro, RJ - Novo Rio / Indo para: Florianópolis, SC – Rodoviária",
         "Name": "Passagens de ônibus de Rio de Janeiro, RJ - Novo Rio para Florianópolis, SC – Rodoviária",
         "PictureUrl": "sap/ui/demo/mock/images/florianopolis3.jpg",
@@ -428,6 +618,13 @@
         "DimensionDepth": "",
         "DimensionHeight": "",
         "Unit": "",
-        "CurrencyCode": "BRL"
+        "CurrencyCode": "BRL",
+        "TechnicalSpecs": {
+            "Origem": "Rio de Janeiro, RJ - Novo Rio",
+            "Destino": "Florianópolis, SC – Rodoviária",
+            "Horário de saída": "12:30",
+            "Horário de chegada": "08:20",
+            "Tipo de assento": "Leito Cama"
+        }
 }
 ]

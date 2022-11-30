@@ -47,6 +47,10 @@
   object-fit: cover;
 }
 
+.productImage {
+	display: flex;
+	justify-content: center;
+}
 
 .text {
 	padding: 30px 0 ;
